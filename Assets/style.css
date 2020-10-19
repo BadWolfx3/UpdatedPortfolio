@@ -1,0 +1,128 @@
+* {
+    background-color: #31649d;
+}
+
+/*Header*/
+.jumbotron{
+    background-color:#31649d;
+}
+
+
+/*Nav bar*/
+
+menu#myNavbar.collapse.navbar-collapse{
+    background-color: #1c2541;
+
+}
+div.container-fluid {
+    background-color: #1c2541;
+}
+.navbar .navbar-expand-lg .navbar-brand{
+    background-color: #1c2541;
+
+}
+
+a {
+    background-color: #1c2541;
+   
+    
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #EB71AD; 
+    font-family: 'Nunito', sans-serif;
+    font-size: medium;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    background-color: #1c2e65;
+    color: white;
+
+}
+
+
+.navbar-inverse .navbar-brand {
+    color: black;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Sansita Swashed', cursive;
+    background-color: #1c2541;
+
+}
+
+
+body {
+    background: #31649d;
+}
+
+/*index main page*/
+.card .index{
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    width: 30%;
+    height: 30%;
+}
+
+.col-sm-8 img {
+    width: 50px;
+    height: 50px;
+}
+
+.img-fluid, .max-width {
+    max-width: 100%;
+    height: auto;
+ }
+
+
+/*contact page*/
+
+.form-group {
+    width: 50%;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color:#EB71AD;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+/*portfolio page*/
+.img-fluid, .nev {
+    max-width: 50%;
+    height: auto;
+
+}
+
+h2.portfolio {
+    color: black;
+    font-family: 'Nunito', sans-serif;
+}
+
+main.container.port a {
+    color: #EB71AD;
+}
+
+/*footer*/
+footer.jumbotron.text-center {
+    background-color: #1c2541;
+    
+}
+
+p.footer{
+    color: white;
+    background-color: #1c2541;
+    font-size: 12px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.footer a {
+    color: #EB71AD;
+}
+
+.footer a:hover {
+    color: #38E097;
+
+}
