@@ -97,6 +97,10 @@ body {
 
 }
 
+h1 {
+    color: black;
+    font-family: 'Nunito', sans-serif; 
+}
 h2.portfolio {
     color: black;
     font-family: 'Nunito', sans-serif;
