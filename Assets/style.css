@@ -73,7 +73,9 @@ body {
     height: auto;
  }
 
-
+.about {
+    text-indent: 50px;
+}
 /*contact page*/
 
 .form-group {
