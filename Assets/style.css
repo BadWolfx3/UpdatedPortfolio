@@ -3,7 +3,7 @@
 }
 
 /*Header*/
-header img {
+.img-fluid {
     max-width: 100%;
  
 }
