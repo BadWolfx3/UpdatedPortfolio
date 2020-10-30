@@ -3,9 +3,16 @@
 }
 
 /*Header*/
-.img-fluid {
-    max-width: 100%;
- 
+ header {
+     background-color:  #cc9d9d;
+ }
+.heading {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+      
 }
 
 
@@ -16,7 +23,9 @@ menu#myNavbar.collapse.navbar-collapse{
 
 }
 div.container-fluid {
-    background-color: #cc9d9d;
+    background-color: #cc9d9d; 
+    max-width: 100%;
+    align-content: center;
 }
 .navbar .navbar-expand-lg .navbar-brand{
     background-color: #cc9d9d;
@@ -25,31 +34,38 @@ div.container-fluid {
 
 a {
     background-color: #cc9d9d;
-   
-    
+     
 }
+
+.navbar-brand {
+    color: #cc9d9d;
+}
+
 .navbar-inverse .navbar-nav>li>a {
     color: black; 
     font-family: 'Nunito', sans-serif;
     font-size: medium;
 }
+
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
     background-color: #cc9d9d;
     color: black;
 
 }
 
-
-.navbar-inverse .navbar-brand {
+.navbar-inverse .navbar-brand{
     color: white;
     font-weight: bolder;
     font-size: xx-large;
-    font-family: 'Sansita Swashed', cursive;
+    font-family: 'Dancing Script', cursive;
     background-color: #cc9d9d;
     padding: 25px;
-
+    
 }
 
+.navbar-brand:hover {
+    color: #cc9d9d;
+}
 
 body {
     background: #b08282;
@@ -116,6 +132,7 @@ main.container.port a {
 /*footer*/
 footer.jumbotron.text-center {
     background-color: #cc9d9d;
+    height: 20px;
     
 }
 
