@@ -1,5 +1,5 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
-10/01/2020
+# Updated Portfolio
+11/3/2020
 Kelsey Busser
 
 ## Description
@@ -16,5 +16,8 @@ The grid system is used.
 * Canva
 
 ## Deployed Application
+https://badwolfx3.github.io/UpdatedPortfolio/
 
 ## Screenshots
+![First Screenshot](/Assets/Images/UDP1.png)
+![Second Screenshot](/Assets/Images/UDP2.png)
